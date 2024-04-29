@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T13:09:58.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.0" etag="Kjy9scukUXSzo3Dur5fS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T13:16:23.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gBnWLNuBPtPYMj2iID_B" version="24.3.0" type="github">
   <diagram name="Page-1" id="H-TFuyuddetBLjpvNvzC">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sSea7OWwtZqSZM1k2m7u-1" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="240" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="sSea7OWwtZqSZM1k2m7u-2" value="Petani" style="swimlane;startSize=20;html=1;" vertex="1" parent="sSea7OWwtZqSZM1k2m7u-1">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="sSea7OWwtZqSZM1k2m7u-3" value="Sistem" style="swimlane;startSize=20;html=1;" vertex="1" parent="sSea7OWwtZqSZM1k2m7u-1">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
